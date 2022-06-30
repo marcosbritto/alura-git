@@ -1,0 +1,5 @@
+
+
+# ignorar arquivos com extensão .doc e temporários doc
+*.doc*
+
